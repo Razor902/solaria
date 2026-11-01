@@ -16,6 +16,10 @@ Open **`solaria-interactive-blueprint.html`** — a self-contained, updated inte
 - **Supporting Work** — daily solar briefs, Space Weather Daily, Shadow Probe materials, the H2 qubit schematic
 - **Next to Build** — the open road, his to order
 
+## The Sun's Corona Device
+
+**`suns-corona-device-blueprint.png`** — the blueprint for the Sun's Corona Device, Curtis's instrument for working the corona: the sun's outer atmosphere, the million-degree mystery, and the device direction that reaches into it. Two lanes, like the show: real corona science and his Solaria device direction. Added 2026-11-01.
+
 ## The standing rule over all of it
 
 Safety over power, always. Permission first. Change the world one day at a time.
